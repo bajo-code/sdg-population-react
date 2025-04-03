@@ -1,10 +1,10 @@
-# React Population Visualization App (react-population--vercel)
+# React Population Visualization App
 
 [![React](https://img.shields.io/badge/React-18.x-blue?logo=react)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-Build%20Tool-purple?logo=vite)](https://vitejs.dev/)
 [![Bun](https://img.shields.io/badge/Bun-Package%20Manager%20%26%20Runtime-yellow?logo=bun)](https://bun.sh/)
 
-**Ver Demo en Vivo:** [**Aquí**](https://vercel.com/bajo-codes-projects/react-population-vercel-test)
+**Ver Demo en Vivo:** [**Aquí**](https://sdg-population-react.vercel.app/)
 
 ## 📄 Descripción
 
